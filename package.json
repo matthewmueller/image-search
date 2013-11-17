@@ -4,8 +4,13 @@
   "description": "extendable image search",
   "keywords": [],
   "author": "Matthew Mueller <mattmuelle@gmail.com>",
-  "repository": { "type": "git", "url": "git://github.com/MatthewMueller/image-search.git" },
-  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MatthewMueller/image-search.git"
+  },
+  "dependencies": {
+    "nom": "0.0.3"
+  },
   "devDependencies": {
     "mocha": "*",
     "should": "*"
